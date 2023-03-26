@@ -1,0 +1,5 @@
+.PopOver {
+  pointer-events: none;
+  user-select: none;
+  fill: #333;
+}

@@ -1,0 +1,14 @@
+.Quadrant {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Ring {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.Entry {
+  font-size: 11px;
+}
